@@ -9,7 +9,7 @@ This app was created during the React TypeScript Todo App tutorial (link forthco
 Clone the app:
 
 ```bash
-git clone https://github.com/nas5w/react-typescript-todo-app.git
+git clone https://github.com/cleverpuss/todo-react-typescript-app.git
 cd react-typescript-todo-app
 ```
 
